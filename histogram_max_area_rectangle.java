@@ -1,7 +1,7 @@
 /*
  * Neetcode Link: https://neetcode.io/problems/largest-rectangle-in-histogram
  * Leetcode Link: https://leetcode.com/problems/largest-rectangle-in-histogram/
- *  
+ * Problem Code: 84
  */
 class Solution {
     public int largestRectangleArea(int[] heights) {
